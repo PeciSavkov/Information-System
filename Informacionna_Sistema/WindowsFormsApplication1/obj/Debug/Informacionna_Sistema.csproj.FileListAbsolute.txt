@@ -1,0 +1,56 @@
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\Informacionna_Sistema.csprojResolveAssemblyReference.cache
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\Informacionna_Sistema.csproj.GenerateResource.Cache
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddTeachers.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\BazaDanni.sdf
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewTeachers.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchTeachers.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddPredmeti.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewPredmeti.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchPredmeti.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddSpecialnosti.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewSpecialnosti.resources
+E:\test\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchSpecialnosti.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\BazaDanni.sdf
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\Informacionna_Sistema.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddPredmeti.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddSpecialnosti.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddTeachers.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchPredmeti.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchSpecialnosti.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchTeachers.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewPredmeti.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewSpecialnosti.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewTeachers.resources
+C:\Users\Petar\Desktop\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\Informacionna_Sistema.csproj.GenerateResource.Cache
+D:\RU A Kynchev\K3S1\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\RU A Kynchev\K3S1\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\RU A Kynchev\K3S1\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\Informacionna_Sistema.csprojResolveAssemblyReference.cache
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddPredmeti.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddSpecialnosti.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddTeachers.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchPredmeti.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchSpecialnosti.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SearchTeachers.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewPredmeti.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewSpecialnosti.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ViewTeachers.resources
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\Informacionna_Sistema.csproj.GenerateResource.Cache
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\TUAK\Bakalavyr\Курсов проект\Informacionna_Sistema\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
